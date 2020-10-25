@@ -34,7 +34,7 @@ It is safe to say that software is everywhere, and it needs to be secure. Securi
 
 - An *asset* is what is being protected, something that has some value to its owner. Its value can be tangible (e.g. gold or a running server) or intangible (data)
 - A *threat* is an intention to cause damage. For cyber security this can be defined as a hostile act aimed by an attacker at an asset. Regardless of the attacker's intent to do no harm, a threat is still a threat. The attacker posing a threat is commonly called a *threat actor*.
-- A *vulnerability* is a defect in the target system. This defect may be a bug in application code, or a flaw in the design of the system. A vulnerabilities can also be a consequence of improper configuration or user action.
+- A *vulnerability* is a defect in the target system. This defect may be a bug in application code, or a flaw in the design of the system. A vulnerability can also be a consequence of improper configuration or user action.
 - An *exploit* is a way to take advantage of a known vulnerability. The usual objective is to take control over the asset. (Social engineering, commonly considered a simple scam, is one kind of exploit.)
 
 <text-box variant="emph" name = "The risk">
